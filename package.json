@@ -1,0 +1,27 @@
+{
+  "name": "pdc_sp24_bsai23033",
+  "version": "1.0.0",
+  "description": "BSAI23004 Rizwan Abdullah",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rizwan-090505/PDC-Sp24-BSAI23004-Rizwan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Rizwan-090505/PDC-Sp24-BSAI23004-Rizwan/issues"
+  },
+  "homepage": "https://github.com/Rizwan-090505/PDC-Sp24-BSAI23004-Rizwan#readme",
+  "dependencies": {
+    "docx": "^9.6.1"
+  }
+}
